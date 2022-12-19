@@ -1,2 +1,4 @@
-package com.Barnard.CvWebsite.model;public class User {
+package com.Barnard.CvWebsite.model;
+
+public class User {
 }
