@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The JVM level was changed from '11' to '17', review the [JDK Version Range](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions#jdk-version-range) on the wiki for more details.
-
 # Getting Started
 
 ### Reference Documentation
@@ -24,8 +19,8 @@ The following guides illustrate how to use some features concretely:
 * [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
-* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
 
 ### Additional Links
 These additional references should also help you:
