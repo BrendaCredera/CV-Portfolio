@@ -1,13 +1,13 @@
-package com.portfolioCV.brenda;
+package com.Barnard.CvWebsite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PortfolioCvApplication {
+public class CvWebsiteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PortfolioCvApplication.class, args);
+		SpringApplication.run(CvWebsiteApplication.class, args);
 	}
 
 }
