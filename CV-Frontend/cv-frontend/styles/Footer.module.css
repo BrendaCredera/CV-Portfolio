@@ -1,0 +1,30 @@
+.footer {
+    background-color: #c9a04e;
+    text-align: center;
+    font-weight: 600;
+    font-size: x-large;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 100%;
+    color: white;
+    cursor: pointer;
+}
+
+.footer:hover{
+    background-color: #7c8c34;
+}
+
+.expanded {
+    padding-top: 10px;
+    background-color: #7c8c34;
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    min-width: 100%;
+    min-height: 100%;
+    font-size: xx-large;
+}
+
+.minimised {
+    background-color: #c9a04e;
+}

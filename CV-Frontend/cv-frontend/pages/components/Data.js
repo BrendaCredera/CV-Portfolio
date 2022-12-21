@@ -1,0 +1,32 @@
+export const skillsData = [
+    {
+        id:1,
+        skill:'Python',
+        language:'English'
+    },
+    {
+        id:2,
+        skill:'Java',
+        language:'Afrikaans'
+    },
+    {
+        id:3,
+        skill:'HTML',
+        language:null
+    },
+    {
+        id:4,
+        skill:'JavaScript',
+        language:null
+    },
+    {
+        id:5,
+        skill:'CSS',
+        language:null
+    },
+    {
+        id:6,
+        skill:'Kotlin',
+        language:null
+    },
+]
